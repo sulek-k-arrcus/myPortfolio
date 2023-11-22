@@ -16,10 +16,10 @@ export const projects = [
     link: "https://cicd.sjc.arrcus.com",
   },
   {
-    title: "Discover Bank",
-    subtitle: "Discover Bank: Login and Payments",
+    title: "Discover-Ecommerce",
+    subtitle: "Discover-Ecommerce: Login and Payments Domain",
     description:
-      "Discover Bank: Login and Payments module developed in one of my projects.",
+      "The Discover-Ecommerce application is a mobile custom application developed for ANDROID/iPhone/iPad devices. JQM: Discover business would like mobile applications to have rich UI experience similar to native clients. The main purpose of JQM Application Development is to build a hybrid cross platform mobile application and rewrite the current mobile website of Discover with enhanced features. Research and development using jQuery mobile API, CSS3, HTML5, jQuery technologies.",
     image: "./project-2.gif",
     link: "https://www.discover.com/online-banking/savings-account/",
   },
@@ -32,10 +32,6 @@ export const projects = [
     link: "https://sulekmk.github.io/WeatherAPIProject/",
   },
 ];
-
-
-
-
 
 export const testimonials = [
   {
